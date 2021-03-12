@@ -1,0 +1,262 @@
+
+{
+  "@context": "http://schema.org/",
+
+  "@graph": [
+      {
+        "@type": "Organization",
+        "name": "Salon Lofts",
+        "description": "Salon Lofts offers individual suites where professional hair stylists, massage therapists, skin care & nail specialists run their own unique beauty salons.",
+        "url" : "https://www.salonlofts.com"
+      },
+      {
+        "@type": "LocalBusiness",
+        "parentOrganization": {
+            "name" : "Salon Lofts"
+        },
+        "name": "Sonja Flewellen at Salon Lofts Loft No. 5",
+        "telephone": "(614) 517-8727",
+        "priceRange" : "$$-$$$",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4281 Morse Road - Loft No. 5",
+          "postOfficeBoxNumber": "",
+          "addressLocality": "Gahanna",
+          "addressRegion": "OH",
+          "postalCode": "43230",
+          "addressCountry": "USA",
+          "mainEntityOfPage": "https://salonlofts.com/sonja_flewellen"
+        },
+        "image" : "https://s3.amazonaws.com/images.salonlofts.com/system/images/66/original/02221021921408C366-CE53-4462-B67A-37FECCB5624B.jpeg?1615402190",
+        "employee": {
+          "@type": "Person",
+          "additionalName": "Sonja Flewellen",
+          "email": "sonja.flewellen@salonlofts.com",
+          "jobTitle": "Hairstylist | Colorist "
+        },
+
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Featured services",
+          "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Color Retouch (1/2 regrowth) "
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Babylights"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Babylights & Cut"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Eyebrows"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Haircut Blowout"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Special Occasion Child (10 & under)"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "All Over Color"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Color Retouch (1/2" regrowth) & Cut"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Haircut Blowout Style "
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Side Burns"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "SL Blowout"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Special Occasion"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "All Over Color & Cut"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Bride"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Partial Highlights"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "SL Blowout & Style"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Balayage"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Haircut Blowout Silk Press (natural hair)"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Lip"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "On Site Bridal & Bridal Party"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Partial Highlights & Cut "
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "SL Blowout & Silkpress (natural hair)"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Balayage & Cut"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Ombre"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "On Site Bridal & Bridal Party (Airplane Travel)"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Color Correction"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Ombre & Cut"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Full Highlights"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Full Highlights & Cut"
+                }
+              } ,
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Color Correction & Cut"
+                }
+              }
+
+          ]
+        }
+
+      }
+    ]
+
+}
+
+
+
